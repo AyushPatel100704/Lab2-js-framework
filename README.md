@@ -1,4 +1,4 @@
-# LAB2-JS-FRAMEWORK
+# LAB ASSIGNMENT-2
 
 ## *Project Overview*
 
